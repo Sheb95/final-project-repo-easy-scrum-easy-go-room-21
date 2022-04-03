@@ -1,39 +1,24 @@
-# Next + Netlify Starter
+# WeShare
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
+Greetings! We are Easy Scrum Easy Go and welcome to our final project repository! For our final challenge at the School of Code, we were assigned the task of creating a fullstack application for a real-world issue in 4 weeks. As a team, we decided to address the issue of access to free upskilling activities. Thus, WeShare was born, a platform where users can exchange knowledge on a class-for-class basis. In other word's you teach a workshop, you get a workshop free. To create this website, We as a team utilised the agile methodology, the rationale behind that is that agile is a people-focused, results-driven approach to software development. It’s flexible, fast and aims for continuous improvements in quality. We chose these because we felt that this was the best way to develop our app quickly in the short amount of time allocated to us.
 
-This is a [Next.js](https://nextjs.org/) v12 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://url.netlify.com/SyTBPVamO)!
-
-This project is a very minimal starter that includes 2 sample components, a global stylesheet, a `netlify.toml` for deployment, and a `jsconfig.json` for setting up absolute imports and aliases. It also includes the [Essential Next.js Build Plugin](https://github.com/netlify/netlify-plugin-nextjs), which will allow for you to implement features like Preview Mode, server-side rendering/incremental static regeneration via Netlify Functions, and internationalized routing.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex-cs)
-
-(If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-### Installation options
-
-**Option one:** One-click deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex-cs)
-
-**Option two:** Manual clone
-
-1. Clone this repo: `git clone https://github.com/netlify-templates/next-netlify-starter.git`
-2. Navigate to the directory and run `npm install`
-3. Run `npm run dev`
-4. Make your changes
-5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+## Tech Stacks
+The tech stacks used to create this project was the following:
+- Frontend
+  - Next.js
+  - Material.UI
+  - Netlify
+- Backend
+  - Heroku 
+  - PostgreSQL
+  - Node.js
+  - Prisma
+- Testing
+  - Cypress.io
+  - Postman
+- Planning
+  - Trello
+  - Miro
+  - Figma
+ 
+ 
